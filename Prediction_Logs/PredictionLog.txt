@@ -1,0 +1,63 @@
+2023-02-02/11:17:14		Start of Prediction
+2023-02-02/11:17:14		Entered the get_data Method of Data_Getter Class
+2023-02-02/11:17:14		Data Load Successfully
+2023-02-02/11:17:14		Entered the IsNull Present method of Data Proprocessing 
+2023-02-02/11:17:14		Entered to Map Ip Address to Corresponding Country
+2023-02-02/11:17:19		Mapping of IP Address to Corresponding Country Successfull in 0:00:00.174656
+2023-02-02/11:17:19		Entered to Finding Difference time between SignUp Time and Purchase Time
+2023-02-02/11:17:19		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2023-02-02/11:17:19		Entered to perform One-Hot Encoding on Browser Feature
+2023-02-02/11:17:19		One-Hot Encoding of Browser Feature Successfully Completed
+2023-02-02/11:17:19		Entered to perform One-Hot Encoding on Source Feature
+2023-02-02/11:17:19		One-Hot Encoding of Source Feature Successfully Completed
+2023-02-02/11:17:19		Entered to perform One-Hot Encoding on Sex Feature
+2023-02-02/11:17:19		One-Hot Encoding of Sex Feature Successfully Completed
+2023-02-02/11:17:19		Count Frequency Encoding of Country Feature Started
+2023-02-02/11:17:19		Count Frequency Encoding of Country Feature Successfully Completed
+2023-02-02/11:17:19		Removing Unwanted Columns Started !!
+2023-02-02/11:17:19		Unwanted Columns Deleted Successfully !!
+2023-02-02/11:17:19		Entered the find_correct_model_file method of the File_Operation class
+2023-02-02/11:17:19		Exited the find_correct_model_file method of FileMethods Package
+2023-02-02/11:17:19		Entered the load_model method of File Operation Class
+2023-02-02/11:17:19		Model FileXGBoostLoaded Successfully
+2023-02-02/11:17:20		Successfull End of Prediction
+2023-02-02/11:17:58		Start of DataRow Prediction
+2023-02-02/11:17:58		Entered to DataRow Map Ip Address to Corresponding Country
+2023-02-02/11:17:58		Mapping of IP Address to Corresponding Country Successfull
+2023-02-02/11:17:58		Entered DataRow to Finding Difference time between SignUp Time and Purchase Time
+2023-02-02/11:17:58		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2023-02-02/11:17:58		Entered to perform DataRow One-Hot Encoding on Browser Feature
+2023-02-02/11:17:58		One-Hot Encoding of Browser Feature Successfully Completed
+2023-02-02/11:17:58		Entered to Data Row perform One-Hot Encoding on Source Feature
+2023-02-02/11:17:58		One-Hot Encoding of Source Feature Successfully Completed
+2023-02-02/11:17:58		Entered to perform DataRow One-Hot Encoding on Sex Feature
+2023-02-02/11:17:58		One-Hot Encoding of Sex Feature Successfully Completed
+2023-02-02/11:17:58		Count Frequency Encoding of Country Feature Started
+2023-02-02/11:17:58		Count Frequency Encoding of Country Feature Successfully Completed
+2023-02-02/11:17:58		Removing DataRow Unwanted Columns Started !!
+2023-02-02/11:17:58		Unwanted Columns Deleted Successfully !!
+2023-02-02/11:17:58		Entered the find_correct_model_file method of the File_Operation class
+2023-02-02/11:17:58		Exited the find_correct_model_file method of FileMethods Package
+2023-02-02/11:17:58		Entered the load_model method of File Operation Class
+2023-02-02/11:17:58		Model FileXGBoostLoaded Successfully
+2023-02-02/11:17:58		Successfull End of DataRow Prediction
+2023-02-02/11:18:14		Start of DataRow Prediction
+2023-02-02/11:18:14		Entered to DataRow Map Ip Address to Corresponding Country
+2023-02-02/11:18:14		Mapping of IP Address to Corresponding Country Successfull
+2023-02-02/11:18:14		Entered DataRow to Finding Difference time between SignUp Time and Purchase Time
+2023-02-02/11:18:14		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2023-02-02/11:18:14		Entered to perform DataRow One-Hot Encoding on Browser Feature
+2023-02-02/11:18:14		One-Hot Encoding of Browser Feature Successfully Completed
+2023-02-02/11:18:14		Entered to Data Row perform One-Hot Encoding on Source Feature
+2023-02-02/11:18:14		One-Hot Encoding of Source Feature Successfully Completed
+2023-02-02/11:18:14		Entered to perform DataRow One-Hot Encoding on Sex Feature
+2023-02-02/11:18:14		One-Hot Encoding of Sex Feature Successfully Completed
+2023-02-02/11:18:14		Count Frequency Encoding of Country Feature Started
+2023-02-02/11:18:14		Count Frequency Encoding of Country Feature Successfully Completed
+2023-02-02/11:18:14		Removing DataRow Unwanted Columns Started !!
+2023-02-02/11:18:14		Unwanted Columns Deleted Successfully !!
+2023-02-02/11:18:14		Entered the find_correct_model_file method of the File_Operation class
+2023-02-02/11:18:14		Exited the find_correct_model_file method of FileMethods Package
+2023-02-02/11:18:14		Entered the load_model method of File Operation Class
+2023-02-02/11:18:14		Model FileXGBoostLoaded Successfully
+2023-02-02/11:18:14		Successfull End of DataRow Prediction

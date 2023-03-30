@@ -1,0 +1,16 @@
+2023-02-02/11:17:06		Start of Raw Data Validation on Files !!
+2023-02-02/11:17:07		Raw Data Validation Completed !!
+2023-02-02/11:17:07		Start of Data Preprocessing before DB
+2023-02-02/11:17:09		Data Preprocessing before DB Completed !!
+2023-02-02/11:17:09		Start of Creating TrainingDatabase and Table based on given schema!!!
+2023-02-02/11:17:10		Creation of Table in Database Successfull !!!
+2023-02-02/11:17:10		Insertion of Data into Table started!!!!
+2023-02-02/11:17:12		Insertion of Data into Tables Completed!!!!
+2023-02-02/11:17:12		Deleting Main and Additional File Good Data Folder!!!
+2023-02-02/11:17:12		Main and Additional Good File Directory Deleted !!!
+2023-02-02/11:17:12		Starting moving bad files to Archive and deleting bad data directory
+2023-02-02/11:17:12		Bad Files moved to Archive!! and Bad Directory Deleted !!
+2023-02-02/11:17:12		Raw Data Validation Completed Successfully
+2023-02-02/11:17:12		Exporting Data Into CSV File Started
+2023-02-02/11:17:14		Data to CSV File Exported Successfull
+2023-02-02/11:17:14		End of Raw Data Validation!!!

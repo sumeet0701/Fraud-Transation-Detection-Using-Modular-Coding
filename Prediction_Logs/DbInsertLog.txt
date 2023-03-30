@@ -1,0 +1,2 @@
+2023-02-02/11:17:10		Fraud_Data_10082020_140000.csv File Loaded Successfully in MainFile_Good_Raw_Data Table
+2023-02-02/11:17:12		IPAddress_To_Country_09122020_120156.csv File Loaded Successfully in AdditionalFile_Good_Raw_Data Table
