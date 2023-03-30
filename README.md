@@ -73,6 +73,15 @@ Install my-project with npm
 
 ●	HTML, CSS, JS for Designing
 
+## Project Process Flow:
+
+![Fraud Transaction Detection](https://user-images.githubusercontent.com/63961794/228727021-dd1c73b4-5a45-4dd5-835f-d402a2291645.jpg)
+
+
+## previews Of web Applications
+
+![web ui](https://user-images.githubusercontent.com/63961794/228726519-8b8ca471-eacd-416f-ae1a-9f9f8dbefc46.jpg)
+
 
 ## 🔗 Links
 [![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sumeet0701/)
@@ -85,7 +94,7 @@ Install my-project with npm
 
 - [@Maheshwari Sumeet](https://github.com/sumeet0701)
 
-## previews Of web Applications
 
-![web ui](https://user-images.githubusercontent.com/63961794/228726519-8b8ca471-eacd-416f-ae1a-9f9f8dbefc46.jpg)
+
+
 
