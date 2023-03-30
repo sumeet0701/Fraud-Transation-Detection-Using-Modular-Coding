@@ -1,8 +1,6 @@
 # Fraud-Transation-Detection-Using-Modular-Coding
 
-# Fraud Transaction Detection
-
-# problem Statement:
+## problem Statement:
 Fraud detection is a set of activities undertaken to prevent money or property from being obtained through false pretenses. Fraud detection is applied to many industries such as banking or insurance. In banking, fraud may include forging checks or using stolen credit cards.
 
 With the ever-increasing digitalization in the global economy of the world today, for many organizations across geographies, a greater and easier reach to customers by providing the use of online purchasing option, is no more a choice, but a necessity for their existence. Online enabled sales also provides the opportunity to scale the business, and go global.
@@ -89,4 +87,5 @@ Install my-project with npm
 
 ## previews Of web Applications
 
-web ui.jpg
+![web ui](https://user-images.githubusercontent.com/63961794/228726519-8b8ca471-eacd-416f-ae1a-9f9f8dbefc46.jpg)
+
