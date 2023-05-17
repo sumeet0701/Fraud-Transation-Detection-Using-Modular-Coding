@@ -33,7 +33,7 @@ Install my-project with npm
   Run your app.py file name
   ```
   python app.py
-
+```
   ```
   -> Enter your values and predict the single prediction
 
