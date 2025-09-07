@@ -171,4 +171,13 @@ docker run -p 5000:5000 fraud-detector
 
 License: MIT License (see LICENSE file)
 
-Author: @Maheshwari Sumeet
+## 🔗 Links
+[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sumeet0701/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeet-maheshwari/)
+
+
+
+## Authors
+
+- [@Maheshwari Sumeet](https://github.com/sumeet0701)
+
+
