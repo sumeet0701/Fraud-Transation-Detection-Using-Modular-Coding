@@ -45,12 +45,13 @@ flowchart TD
     A[Data Ingestion] --> B[Data Preprocessing & Validation]
     B --> C[Model Training & Best Model Selection]
     C --> D[Model Registry / Tracking]
-    B --> E[Prediction Module → (Single / Batch)]
+    B --> E[Prediction Module → Single / Batch]
     E --> F[API / CLI Interface]
     C & E --> G[Logging & Monitoring System]
 ```
 
 ## Project Structure:
+```
 Fraud-Transation-Detection-Using-Modular-Coding/
 ├── Application_Logging/
 ├── Data_Ingestion/
@@ -88,6 +89,7 @@ Fraud-Transation-Detection-Using-Modular-Coding/
 ├── schema_Prediction.json
 └── assets/                         # Contains visuals like flowchart & UI previews
 -----
+```
 
 ## Technologies Used:
 - **Python** – Primary programming language
